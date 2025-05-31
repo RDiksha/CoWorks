@@ -1,0 +1,18 @@
+.card-address {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+}
+
+.custom-outline-button-primary {
+  border: 2px solid #a39e9e !important;
+  color: #1a1a1a !important;
+  background-color: transparent !important;
+}
+
+.custom-outline-button-secondary {
+  border: 2px solid #a39e9e !important;
+  color: #1a1a1a !important;
+  background-color: #dcbd14 !important;
+}
